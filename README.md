@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-ValdezAdam-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdezadam/)
 [![Mail Badge](https://img.shields.io/badge/-adam@valdez.tech-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:adam@valdez.tech)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adamvaldez.adamvaldez)
 
 I'm a Software Engineer from San Diego, CA. Currently working for Broadridge Financial Solutions
 
